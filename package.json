@@ -1,0 +1,15 @@
+{
+  "name": "aternos-afk-bot",
+  "version": "1.0.0",
+  "description": "A simple AFK bot for Aternos servers using bedrock-protocol",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.12.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

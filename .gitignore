@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Auth Cache (Personal Tokens)
+auth_cache/
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
